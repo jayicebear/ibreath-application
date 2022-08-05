@@ -6,7 +6,7 @@ we used firebase which stores application data and google colab which analysis a
 Deep learning model which classifies using multi-perceptron model.
 This model is built using data measured in five different modes which are 
 Normal, physical stress, mental stress, relaxed, and deep-breath modes.
-Mfcc, Chroma, Mel, Contrast and tonnez are used to analysis audio features. 
+Mfcc, Chroma, Mel, Contrast and tonnez are used to analysis audio features. Bandpass filtering and Log compression are used which attenuates the frequency of the band and reduces the range.
 This deep learnig model learned from this data and classifies user's current condition.
 
 # application 
@@ -14,6 +14,9 @@ This deep learnig model learned from this data and classifies user's current con
 https://ib2l.mozzign.io/recording
 
 ###breath visualization
+
+<img width="978" alt="스크린샷 2022-08-05 오후 2 47 56" src="https://user-images.githubusercontent.com/41169144/183010177-d9cc196f-717a-4469-865b-b6d43c0d9548.png">
+
 
 <img width="975" alt="스크린샷 2022-08-05 오후 2 46 07" src="https://user-images.githubusercontent.com/41169144/183009769-f1328cb2-f756-4880-b355-fbd947dcd7a9.png">
 
