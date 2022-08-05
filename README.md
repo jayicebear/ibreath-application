@@ -9,6 +9,16 @@ Normal, physical stress, mental stress, relaxed, and deep-breath modes.
 Mfcc, Chroma, Mel, Contrast and tonnez are used to analysis audio features. 
 This deep learnig model learned from this data and classifies user's current condition.
 
+# application 
+
+https://ib2l.mozzign.io/recording
+
+
+#profile part
+
+<img width="815" alt="스크린샷 2022-08-05 오후 1 50 54" src="https://user-images.githubusercontent.com/41169144/183004263-9e2eebc6-cccc-4b3b-8ae7-d438a2f695f1.png">
+
+
 ###Five different modes & recording part###
 
 <img width="816" alt="스크린샷 2022-08-05 오후 1 49 41" src="https://user-images.githubusercontent.com/41169144/183003978-98aaaa14-76cc-41ac-8c44-2366e974163f.png">
